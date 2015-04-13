@@ -2,7 +2,7 @@
 server {
         listen 80 default_server;
 
-        root /home/matt/code/acmtalk/htdocs;
+        root /home/matt/webpages/test/htdocs;
 	index index.html index.htm;
 
         server_name mhammerly.me www.mhammerly.me;
