@@ -5,7 +5,7 @@ server {
         root /home/matt/webpages/test/htdocs;
 	index index.html index.htm;
 
-        server_name mhammerly.me www.mhammerly.me;
+        server_name mhammerly.co.vu www.mhammerly.co.vu;
 
 	location / {
 		try_files $uri $uri/ /index.html;
